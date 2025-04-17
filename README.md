@@ -16,7 +16,7 @@ A sleek, responsive testimonial slider built using **HTML**, **CSS**, **JavaScri
 
 ## 📸 Preview
 
-![Demo Screenshot]([https://your-screenshot-link-if-any.png](https://github.com/ayushrajput545/Testimonial_web/blob/main/Screenshot%202025-04-17%20131501.png))
+![Demo Screenshot](https://github.com/ayushrajput545/Testimonial_web/blob/main/Screenshot%202025-04-17%20131501.png)
 
 ---
 
